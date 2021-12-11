@@ -8,11 +8,11 @@
 
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js",
+    "dev": "nodemon index.js"
     
-      "node": "14.x"
-    
-  
+  },
+  "engines": {
+    "node": "14.17.0"
   },
   "keywords": [],
   "author": "archu",
